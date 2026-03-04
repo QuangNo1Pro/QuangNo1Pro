@@ -53,6 +53,11 @@ I am a final-year student at **University of Science, VNU-HCM** with a passion f
 * **Tech:** Node.js, Passport.js (OAuth2), EJS.
 * **Highlight:** Designed normalized database for tours, providers, and bookings.
 
+#### 📧 [React Gmail Kanban Email Client](https://github.com/QuangNo1Pro/web_nc_GA03_React_Email_Client)
+> *Full-stack real-time email client with Gmail integration, Kanban board, Google OAuth2, IMAP/SMTP support, AI summarization, and secure token management.*
+* **Tech:** React, TypeScript, Node.js, MongoDB, Google OAuth2, Gemini API.
+* **Highlight:** Secure token management (HttpOnly refresh cookie), AES-256-GCM encryption for IMAP passwords, email Kanban workflow + AI email summaries.
+
 ---
 
 <div align="center">
