@@ -1,6 +1,6 @@
 # Hi there, I'm Le Van Quang! 👋
 
-### 👨‍💻 Backend Developer (Intern/Fresher) | Node.js
+### 👨‍💻 Backend Developer (Intern/Fresher) | Node.js | NestJS | PostgreSQL
 
 I am a final-year student at **University of Science, VNU-HCM** with a strong passion for building scalable backend systems, secure RESTful APIs, and integrating third-party services. I love turning complex business logic into clean, maintainable, and efficient backend code.
 
