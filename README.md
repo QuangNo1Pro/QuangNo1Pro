@@ -51,11 +51,6 @@ I am a final-year student at **University of Science, VNU-HCM** with a passion f
 * **Tech:** Node.js, Express, PostgreSQL, Google Vertex AI (Gemini Pro).
 * **Role:** Backend Lead - API Development & AI Integration.
 
-#### 🛒 [E-commerce Web App](https://github.com/DoAnCKWeb/DoAnCkWeb)
-> *Full-stack shopping platform with admin dashboard and sales visualization.*
-* **Tech:** Node.js, Express, PostgreSQL, Chart.js.
-* **Highlight:** Complex cart logic & secure payment flow.
-
 ---
 
 <div align="center">
